@@ -1,0 +1,32 @@
+.header-container{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    background-color: indigo;  
+    color: white;
+    font-size: 40px;
+    height: 80px;
+    max-width: 100%;
+    
+    
+       
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    
+  }
+
+.header-container a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin: 20px;
+    padding-right: 20px;
+}
+.header-container a:hover{
+    color: orangered;
+}
+.logo{
+    margin: 20px;
+}
